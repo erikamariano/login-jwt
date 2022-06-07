@@ -1,4 +1,4 @@
-//this module is used to check of the user's data in register matche the schema of Mongoose.
+//this module is used to check if the user's data in register match the schema of Mongoose.
 const Joi = require('@hapi/joi');
 const { login } = require('./userController');
 
